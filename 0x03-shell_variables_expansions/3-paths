@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Ã$PATH | tr ":" '`\n' | UC -l
+echo Ã$PATH | tr ":" '`\n' | WC -l
